@@ -15,5 +15,3 @@ O objetivo deste projeto é desenvolver uma ferramenta computacional para a cons
 
 - **Representação das provas por termos-lambda:**  
   Utilizando a correspondência Curry-Howard, que relaciona Dedução Natural com linguagens de programação com tipos funcionais, a ferramenta deverá possibilitar a representação das provas através de termos-lambda.
-
-## Funcionalidades Adicionais
