@@ -1,6 +1,6 @@
 # Ferramenta para Construção Assistida de Provas em Dedução Natural
 
-## Introdução
+<!-- ## Introdução
 
 Dedução Natural é um tipo de sistema formal de prova que permite raciocinar no contexto de hipóteses, coexistindo regras para introdução e eliminação dos conectivos da lógica em estudo. Este formalismo é estudado, por exemplo, na Unidade Curricular (UC) de Lógica da Licenciatura em Ciência da Computação (LCC).
 
@@ -15,3 +15,23 @@ O objetivo deste projeto é desenvolver uma ferramenta computacional para a cons
 
 - **Representação das provas por termos-lambda:**  
   Utilizando a correspondência Curry-Howard, que relaciona Dedução Natural com linguagens de programação com tipos funcionais, a ferramenta deverá possibilitar a representação das provas através de termos-lambda.
+-->
+
+## Getting Started
+
+Clone the repo:
+
+```bash
+git clone https://github.com/DanielAndrade53/Ferramenta-de-Provas-de-Deducao-Natural.git
+```
+Change directory to the project root:
+
+```bash
+cd Ferramenta-de-Provas-de-Deducao-Natural
+```
+
+## Run
+
+```bash
+python -m servidor.main
+```
