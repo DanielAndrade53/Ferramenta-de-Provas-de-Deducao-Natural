@@ -33,5 +33,6 @@ cd Ferramenta-de-Provas-de-Deducao-Natural
 ## Run
 
 ```bash
+.\servidor\venv\Scripts\activate
 python -m servidor.main
 ```
